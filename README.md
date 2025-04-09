@@ -1,6 +1,6 @@
 ## Cody Ray
 
-Grug-brained dev largely focused on data—designing schemas, analyzing complex datasets, and building tools to support that work. I primarily work with Go, Python, Bash, and PostgreSQL—with a bit of Lisp when I can justify it. I like to keep things as simple as possible. Interested in too many things at once, and fine with that.
+Software developer with experience working on data infrastructure—designing schemas, building ETL pipelines, analyzing complex datasets, and developing tools to support that work. I primarily work with Go, Python, Bash, and PostgreSQL, and have been working with Laravel and Common Lisp more recently. I value simplicity and clarity in both code and design.
 
 Finishing a B.S. in Computer Science at Oregon State University and working with a great team at My Price Health.
 
@@ -8,21 +8,19 @@ Finishing a B.S. in Computer Science at Oregon State University and working with
 
 ## Projects
 ### BeaverHealth Vulnerable Web App (OSU Capstone)
-
-An intentionally vulnerable web application built with Laravel and designed for security education. Demonstrates common vulnerabilities like SQL injection, XSS, and broken access controls.
+An intentionally vulnerable Laravel application for security education, demonstrating common issues like SQL injection, XSS, and broken access controls. Currently being developed with a small team for a senior capstone project at Oregon State.
 
 [GitHub Repository](https://github.com/BeaverHealth-Vulnerable-Web-App/BeaverHealth-Vulnerable-Web-App)
 
 ### Wordle Solver
-A Wordle-solving assistant with a Common Lisp backend and a keyboard-navigable React UI.
+A Wordle-solving assistant with a Common Lisp backend and a keyboard-navigable React UI. This is a small personal project—really just an excuse to write some Lisp.
 
 [GitHub Repository](https://github.com/c-a-ray/wordle-solver)
 
 ---
 
-## Interests
+## Some Interests
 - Developer workflows and automation
-- Emacs, Lisp, and extensible tooling
-- CLI tools, minimalist UX, and plaintext systems
-- Application and platform security
+- CLI tools, minimalist UX, and plaintext workflows
+- Application security
 - Arch Linux + Doom Emacs + Xmonad
