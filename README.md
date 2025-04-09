@@ -1,16 +1,28 @@
-## Hi there 👋
+## Cody Ray
 
-<!--
-**c-a-ray/c-a-ray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Grug-brained dev largely focused on data—designing schemas, analyzing complex datasets, and building tools to support that work. I primarily work with Go, Python, Bash, and PostgreSQL—with a bit of Lisp, when I can justify it. I like to keep things as simple as possible. Interested in too many things at once, and fine with that.
 
-Here are some ideas to get you started:
+Finishing a B.S. in Computer Science at Oregon State University and working with a great team at My Price Health.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Projects
+### BeaverHealth Vulnerable Web App (OSU Capstone)
+
+An intentionally vulnerable web application built with Laravel and designed for security education. Includes common vulnerabilities like SQL injection, XSS, and broken access controls.
+
+[GitHub Repository](https://github.com/BeaverHealth-Vulnerable-Web-App/BeaverHealth-Vulnerable-Web-App)
+
+### Wordle Solver
+A Wordle-solving assistant with a Common Lisp backend and a keyboard-navigable React UI.
+
+[GitHub Repository](https://github.com/c-a-ray/wordle-solver)
+
+---
+
+## Interests
+- Developer workflows and automation
+- Emacs, Lisp, and extensible tooling
+- CLI tools, minimalist UX, and plaintext systems
+- Application and platform security
+- Arch Linux + Doom Emacs + Xmonad
